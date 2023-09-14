@@ -11,9 +11,17 @@ Dive deep into FIFA 23's vast player dataset, exploring both supervised and unsu
 ![image](https://github.com/muhammad-luay/Supervised-vs-unsupervised-learning/assets/62732628/8691d2d2-fb05-4c3d-ae17-9ea101dbd5f9)
 
 
-<img width="385" alt="Screenshot 2023-09-14 at 09 11 25" src="https://github.com/muhammad-luay/Supervised-vs-unsupervised-learning/assets/62732628/1a1f8269-9ae8-427b-95fc-57318beac0ce">
+![image](https://github.com/muhammad-luay/Supervised-vs-unsupervised-learning/assets/62732628/1a1f8269-9ae8-427b-95fc-57318beac0ce)
+
+
+
+
+
+
+
+
 
 SVM results
-<img width="582" alt="Screenshot 2023-09-14 at 09 12 35" src="https://github.com/muhammad-luay/Supervised-vs-unsupervised-learning/assets/62732628/d30da7a1-6ba9-4440-bfb4-d80c8b2bc229">
+![image](https://github.com/muhammad-luay/Supervised-vs-unsupervised-learning/assets/62732628/d30da7a1-6ba9-4440-bfb4-d80c8b2bc229)
 
 Article with writeup: https://rpubs.com/M_Luay/fifa
